@@ -1,4 +1,4 @@
--> Merhaba Ben Egemen
+- Merhaba Ben Egemen
 
 - 🔭 Şu anda Node.js üzerinde çalışıyorum
 - 🌱 Şu anda Java öğreniyorum
