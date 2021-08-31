@@ -5,7 +5,7 @@
   
 </div>
 
-<div class="buttons">
+
           
           <a type="button" class="btn btn-dark" href="https://discord.com/users/705355571209175071" target="_blank"><i class="fab fa-discord"></i>  Discord</a>
           <br/>
