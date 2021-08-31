@@ -1,7 +1,5 @@
-- Merhaba Ben Egemen
-
-- 🔭 Şu anda Node.js üzerinde çalışıyorum
-- 🌱 Şu anda C# öğreniyorum
-- 💬 Bana Discord üzerinden ulaşıp soru sorabilirsin
-- 📫 İletişim; Discord: Egolas#0001
-- ⚡ Hobilerim: Anime izlemek, Program yazmak, Oyun oynamak, Spor yapmak
+<div align="center">
+  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/idin)](https://discord.com/users/705355571209175071)
+  
+</div>
