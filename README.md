@@ -1,6 +1,6 @@
 <h1>Hi, I'm Egolas 👋</h1>
 
-<h1>Hey You, I Will Be So Happy If You Follow Me</h1>
+<h1>I Will Be So Happy If You Follow Me</h1>
 
 <div>
   
