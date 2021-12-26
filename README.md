@@ -11,7 +11,7 @@
 
 <h1>Github Stats</h1>
 
-[![EgemenOnly’s github stats](https://github-readme-stats.vercel.app/api?username=EgemenOnly)](https://github.com/EgemenOnly)
+[![Egolas’s github stats](https://github-readme-stats.vercel.app/api?username=EgemenOnly)](https://github.com/EgemenOnly)
 
 
 
