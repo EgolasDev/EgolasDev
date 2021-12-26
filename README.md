@@ -7,7 +7,7 @@
   
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/705355571209175071)](https://discord.com/users/705355571209175071)
   
-
+[!Discord](https://iconscout.com/icon/discord-4408640)(https://discord.com/users/705355571209175071)
 
 <h1>Github Stats</h1>
 
