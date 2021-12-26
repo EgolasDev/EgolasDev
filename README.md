@@ -8,5 +8,4 @@
   
 </div>
 
-<h1>Social</h1>
-![https://website.egolas.repl.co](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
