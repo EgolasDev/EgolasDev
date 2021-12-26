@@ -25,6 +25,6 @@
 
 [![Egolas’s github stats](https://github-readme-stats.vercel.app/api?username=EgemenOnly)](https://github.com/EgemenOnly)
 
-[![Egolas's github stats2](https://github-readme-stats.vercel.app/api/top-langs/?username={EgemenOnly})](https//github.com/EgemenOnly)
+[![Egolas's github stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=EgemenOnly)](https//github.com/EgemenOnly)
 
 
