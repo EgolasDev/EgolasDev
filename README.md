@@ -11,6 +11,8 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/egemen_only)
 
+[![İnstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/egemen_only
+
 <h1>Github Stats</h1>
 
 [![Egolas’s github stats](https://github-readme-stats.vercel.app/api?username=EgemenOnly)](https://github.com/EgemenOnly)
