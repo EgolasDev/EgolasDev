@@ -24,7 +24,7 @@
 
 <h1>OS</h1>
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://https://www.android.com/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 <h1>Github Stats</h1>
 
