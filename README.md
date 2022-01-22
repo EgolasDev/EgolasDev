@@ -4,12 +4,8 @@
   
 <h1>Social</h1>
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://egolas-dev.ga)
-
-[![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/EgolasV1)
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/egolas-only/)
-
+<a href="http://egolas-dev.ga" rel="nofollow"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite"></a><a href="https://myanimelist.net/profile/EgolasV1" rel="nofollow"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList"></a><a
+href="https://steamcommunity.com/id/egolas-only/" rel="nofollow"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a><a
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/egemen_only)
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/2f21h46p16gob29xihp33molx?si=QgHrigrHRtastLXu_QOOew&utm_source=copy-link)
