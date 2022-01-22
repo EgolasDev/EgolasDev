@@ -22,7 +22,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCEDdMrNmNdcPN1E_dNGA7AA)
 
-<h1>OS</h1>
+<h1>Use OS</h1>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
