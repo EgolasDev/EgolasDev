@@ -33,18 +33,3 @@
 [![Egolas's github stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=EgolasDev)](https//github.com/EgolasDev)
 
 [![Egolas's github stats3](https://github-readme-streak-stats.herokuapp.com/?user=EgolasDev)](https://github.com/EgolasDev)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
