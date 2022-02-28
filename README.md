@@ -15,6 +15,7 @@ href="https://youtube.com/channel/UCEDdMrNmNdcPN1E_dNGA7AA" rel="nofollow"><img 
 
 <h1>Use OS</h1>
 
+[!Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 <h1>Github Stats</h1>
