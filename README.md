@@ -9,7 +9,7 @@ href="https://steamcommunity.com/id/egolas-only/" rel="nofollow"><img src="https
 href="https://twitter.com/egemen_only" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a><a
 href="https://open.spotify.com/user/2f21h46p16gob29xihp33molx?si=QgHrigrHRtastLXu_QOOew&utm_source=copy-link" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a><a
 href="https://discord.com/users/705355571209175071" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a><a
-href="https://instagram.com/egemen_only" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="İnstagram"></a><a
+href="https://instagram.com/egolas_senpai" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="İnstagram"></a><a
 href="https://github.com/EgolasDev" rel="nofollow"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a><a
 href="https://youtube.com/channel/UCEDdMrNmNdcPN1E_dNGA7AA" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
