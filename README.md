@@ -15,7 +15,7 @@ href="https://youtube.com/channel/UCEDdMrNmNdcPN1E_dNGA7AA" rel="nofollow"><img 
 
 <h1>Use OS</h1>
 
-[![EndevaourOS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white](https://endeavouros.com)
+[![EndevaourOS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://endeavouros.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
 <h1>Github Stats</h1>
 
