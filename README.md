@@ -18,11 +18,12 @@ href="https://twitch.tv/egolas_senpai" rel="nofollow"><img src="https://img.shie
 
 [![EndevaourOS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://endeavouros.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
-<h1>Github Stats</h1>
 
 <h1>Use Languages & Others<h1>
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
+
+<h1>Github Stats</h1>
   
 [![Egolas’s github stats](https://github-readme-stats.vercel.app/api?username=EgolasDev)](https://github.com/EgolasDev)
 
