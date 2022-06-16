@@ -20,6 +20,10 @@ href="https://twitch.tv/egolas_senpai" rel="nofollow"><img src="https://img.shie
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
 <h1>Github Stats</h1>
 
+<h1>Use Languages & Others<h1>
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
+  
 [![Egolas’s github stats](https://github-readme-stats.vercel.app/api?username=EgolasDev)](https://github.com/EgolasDev)
 
 [![Egolas's github stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=EgolasDev)](https//github.com/EgolasDev)
