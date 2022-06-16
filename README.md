@@ -11,7 +11,8 @@ href="https://open.spotify.com/user/2f21h46p16gob29xihp33molx?si=QgHrigrHRtastLX
 href="https://discord.com/users/705355571209175071" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a><a
 href="https://instagram.com/egemenisteya" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="İnstagram"></a><a
 href="https://github.com/EgolasDev" rel="nofollow"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a><a
-href="https://youtube.com/channel/UCEDdMrNmNdcPN1E_dNGA7AA" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+href="https://youtube.com/channel/UCEDdMrNmNdcPN1E_dNGA7AA" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+href="https://twitch.tv/egolas_senpai" rel="nofollow"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 
 <h1>Use OS</h1>
 
