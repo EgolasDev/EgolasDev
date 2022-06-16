@@ -15,9 +15,8 @@ href="https://youtube.com/channel/UCEDdMrNmNdcPN1E_dNGA7AA" rel="nofollow"><img 
 
 <h1>Use OS</h1>
 
-[![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-
+[![EndevaourOS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white](https://endeavouros.com)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
 <h1>Github Stats</h1>
 
 [![Egolas’s github stats](https://github-readme-stats.vercel.app/api?username=EgolasDev)](https://github.com/EgolasDev)
