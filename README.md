@@ -17,10 +17,11 @@ href="https://twitch.tv/egolas_senpai" rel="nofollow"><img src="https://img.shie
 <h1>Technologies</h1>
 
 [![EndevaourOS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://endeavouros.com)
-
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
-
 [![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
+[![GNU bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/)
 
 <h1>Github Stats</h1>
   
@@ -29,3 +30,5 @@ href="https://twitch.tv/egolas_senpai" rel="nofollow"><img src="https://img.shie
 [![Egolas's github stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=EgolasDev)](https//github.com/EgolasDev)
 
 [![Egolas's github stats3](https://github-readme-streak-stats.herokuapp.com/?user=EgolasDev)](https://github.com/EgolasDev)
+
+[![Egolas's github stats4](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgolasDev&theme=vue)](https://github.com/EgolasDev)
