@@ -14,14 +14,13 @@ href="https://github.com/EgolasDev" rel="nofollow"><img src="https://img.shields
 href="https://youtube.com/channel/UCEDdMrNmNdcPN1E_dNGA7AA" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"><a
 href="https://twitch.tv/egolas_senpai" rel="nofollow"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 
-<h1>Use OS</h1>
+<h1>Technologies</h1>
 
 [![EndevaourOS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://endeavouros.com)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
-
-<h1>Use Languages & Others<h1>
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
+
+[![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 <h1>Github Stats</h1>
   
